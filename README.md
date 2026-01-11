@@ -1,6 +1,6 @@
 # Security Scanner Test File
 
-This PHP file is designed to test server-side antivirus and security scanners by containing multiple suspicious patterns that are commonly associated with malicious code. **This file contains NO actual malicious code** - all suspicious patterns are stored as strings or are harmless operations.
+This PHP file is designed to test web application / server-side antivirus and security scanners by containing multiple suspicious patterns that are commonly associated with malicious code. **This file contains NO actual malicious code** - all suspicious patterns are stored as strings or are harmless operations.
 
 ## Why This File Triggers Scanners
 
