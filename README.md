@@ -1,6 +1,6 @@
 # Security Scanner Test File
 
-This PHP file is designed to test server-side antivirus and security scanners (such as Sucuri, Imunify360, etc.) by containing multiple suspicious patterns that are commonly associated with malicious code. **This file contains NO actual malicious code** - all suspicious patterns are stored as strings or are harmless operations.
+This PHP file is designed to test server-side antivirus and security scanners by containing multiple suspicious patterns that are commonly associated with malicious code. **This file contains NO actual malicious code** - all suspicious patterns are stored as strings or are harmless operations.
 
 ## Why This File Triggers Scanners
 
@@ -176,7 +176,7 @@ The key point is that **all of these patterns are present, but none are actually
 
 ## Usage
 
-Upload this file to your server and check if your security scanner (Sucuri, Imunify360, etc.) detects it. The file is harmless and can be safely executed, but it should trigger most security scanners due to the numerous suspicious patterns it contains.
+Upload this file to your server and check if your security scanner detects it. The file is harmless and can be safely executed, but it should trigger most security scanners due to the numerous suspicious patterns it contains.
 
 ## Note
 
